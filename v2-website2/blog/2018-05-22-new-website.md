@@ -6,7 +6,7 @@ authorURL: "http://github.com/azu"
 
 textlint get a new website!
 
-![website](/blog/assets/2018-05-22-new-website.png)
+![website](../blog/assets/2018-05-22-new-website.png)
 
 - [@0x6b](https://github.com/0x6b) start to work migrate exising document to website.
 - [@uetchy](https://github.com/uetchy) design this website.

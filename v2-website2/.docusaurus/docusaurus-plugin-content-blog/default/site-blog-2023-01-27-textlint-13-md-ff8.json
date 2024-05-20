@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/2023/01/27/textlint-13",
+  "source": "@site/blog/2023-01-27-textlint-13.md",
+  "title": "textlint v13.0.0",
+  "description": "We just publish textlint v13.0.0, which is a major release upgrade of textlint.",
+  "date": "2023-01-27T00:00:00.000Z",
+  "formattedDate": "January 27, 2023",
+  "tags": [],
+  "readingTime": 6.45,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "azu",
+      "url": "http://github.com/azu"
+    }
+  ],
+  "frontMatter": {
+    "title": "textlint v13.0.0",
+    "author": "azu",
+    "authorURL": "http://github.com/azu"
+  },
+  "prevItem": {
+    "title": "textlint v14.0.0",
+    "permalink": "/blog/2024/02/03/textlint-14"
+  },
+  "nextItem": {
+    "title": "textlint v12.0.0",
+    "permalink": "/blog/2021/05/24/textlint-12"
+  }
+}

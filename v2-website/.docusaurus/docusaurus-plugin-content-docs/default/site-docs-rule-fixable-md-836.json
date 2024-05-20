@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rule-fixable",
+  "id": "rule-fixable",
+  "title": "Creating Fixable Rule",
+  "description": "textlint has linter and also has fixer.",
+  "source": "@site/../docs/rule-fixable.md",
+  "sourceDirName": ".",
+  "slug": "/rule-fixable",
+  "permalink": "/docs/rule-fixable",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/rule-fixable.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rule-fixable",
+    "title": "Creating Fixable Rule"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Creating Filter Rule",
+    "permalink": "/docs/filter-rule"
+  },
+  "next": {
+    "title": "Creating Preset",
+    "permalink": "/docs/rule-preset"
+  }
+}

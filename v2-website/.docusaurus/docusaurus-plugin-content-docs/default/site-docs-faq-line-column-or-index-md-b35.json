@@ -1,0 +1,18 @@
+{
+  "unversionedId": "faq/line-column-or-index",
+  "id": "faq/line-column-or-index",
+  "title": "Have to use {line, column} or index",
+  "description": "Target: Developer",
+  "source": "@site/../docs/faq/line-column-or-index.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/line-column-or-index",
+  "permalink": "/docs/faq/line-column-or-index",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/faq/line-column-or-index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

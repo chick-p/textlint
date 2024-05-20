@@ -1,0 +1,30 @@
+{
+  "unversionedId": "filter-rule",
+  "id": "filter-rule",
+  "title": "Creating Filter Rule",
+  "description": "Filter rule is same writing convention with linting/fixing rule, but has different context.",
+  "source": "@site/../docs/filter-rule.md",
+  "sourceDirName": ".",
+  "slug": "/filter-rule",
+  "permalink": "/docs/filter-rule",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/filter-rule.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "filter-rule",
+    "title": "Creating Filter Rule"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Creating Rules",
+    "permalink": "/docs/rule"
+  },
+  "next": {
+    "title": "Creating Fixable Rule",
+    "permalink": "/docs/rule-fixable"
+  }
+}

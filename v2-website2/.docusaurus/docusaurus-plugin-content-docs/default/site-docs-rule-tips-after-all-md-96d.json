@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rule-tips-after-all",
+  "id": "rule-tips-after-all",
+  "title": "How to implement \"after-all\" in the rule?",
+  "description": "Is there any way to execute this after all checks are done?",
+  "source": "@site/../docs/rule-tips-after-all.md",
+  "sourceDirName": ".",
+  "slug": "/rule-tips-after-all",
+  "permalink": "/docs/rule-tips-after-all",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/rule-tips-after-all.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rule-tips-after-all",
+    "title": "How to implement \"after-all\" in the rule?"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Advanced: Paragraph Rule",
+    "permalink": "/docs/rule-advanced"
+  },
+  "next": {
+    "title": "Plugin",
+    "permalink": "/docs/plugin"
+  }
+}

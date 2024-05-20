@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rule",
+  "id": "rule",
+  "title": "Creating Rules",
+  "description": "textlint's AST(Abstract Syntax Tree) is defined at the page.",
+  "source": "@site/../docs/rule.md",
+  "sourceDirName": ".",
+  "slug": "/rule",
+  "permalink": "/docs/rule",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/rule.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rule",
+    "title": "Creating Rules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Integrating with Editors, Tools, etc..",
+    "permalink": "/docs/integrations"
+  },
+  "next": {
+    "title": "Creating Filter Rule",
+    "permalink": "/docs/filter-rule"
+  }
+}

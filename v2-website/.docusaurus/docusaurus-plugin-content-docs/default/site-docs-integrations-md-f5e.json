@@ -1,0 +1,30 @@
+{
+  "unversionedId": "integrations",
+  "id": "integrations",
+  "title": "Integrating with Editors, Tools, etc..",
+  "description": "Editors",
+  "source": "@site/../docs/integrations.md",
+  "sourceDirName": ".",
+  "slug": "/integrations",
+  "permalink": "/docs/integrations",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/integrations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "integrations",
+    "title": "Integrating with Editors, Tools, etc.."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ignoring Text",
+    "permalink": "/docs/ignore"
+  },
+  "next": {
+    "title": "Creating Rules",
+    "permalink": "/docs/rule"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "ignore",
+  "id": "ignore",
+  "title": "Ignoring Text",
+  "description": "Use .textlintignore to ignore certain files and folders completely.",
+  "source": "@site/../docs/ignore.md",
+  "sourceDirName": ".",
+  "slug": "/ignore",
+  "permalink": "/docs/ignore",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/ignore.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ignore",
+    "title": "Ignoring Text"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuring textlint",
+    "permalink": "/docs/configuring"
+  },
+  "next": {
+    "title": "Integrating with Editors, Tools, etc..",
+    "permalink": "/docs/integrations"
+  }
+}

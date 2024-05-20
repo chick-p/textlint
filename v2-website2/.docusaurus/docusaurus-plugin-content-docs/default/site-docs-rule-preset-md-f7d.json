@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rule-preset",
+  "id": "rule-preset",
+  "title": "Creating Preset",
+  "description": "\"preset\" is a collection of rules and rulesConfig.",
+  "source": "@site/../docs/rule-preset.md",
+  "sourceDirName": ".",
+  "slug": "/rule-preset",
+  "permalink": "/docs/rule-preset",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/rule-preset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rule-preset",
+    "title": "Creating Preset"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Creating Fixable Rule",
+    "permalink": "/docs/rule-fixable"
+  },
+  "next": {
+    "title": "Advanced: Paragraph Rule",
+    "permalink": "/docs/rule-advanced"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "formatter",
+  "id": "formatter",
+  "title": "Formatter",
+  "description": "Result of linting",
+  "source": "@site/../docs/formatter.md",
+  "sourceDirName": ".",
+  "slug": "/formatter",
+  "permalink": "/docs/formatter",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/formatter.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "formatter",
+    "title": "Formatter"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plugin",
+    "permalink": "/docs/plugin"
+  },
+  "next": {
+    "title": "Use as Node Modules",
+    "permalink": "/docs/use-as-modules"
+  }
+}

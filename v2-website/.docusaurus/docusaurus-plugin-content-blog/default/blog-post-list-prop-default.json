@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "textlint v14.0.0",
+      "permalink": "/blog/2024/02/03/textlint-14"
+    },
+    {
+      "title": "textlint v13.0.0",
+      "permalink": "/blog/2023/01/27/textlint-13"
+    },
+    {
+      "title": "textlint v12.0.0",
+      "permalink": "/blog/2021/05/24/textlint-12"
+    },
+    {
+      "title": "textlint 11 released",
+      "permalink": "/blog/2018/07/22/textlint-11"
+    },
+    {
+      "title": "New website",
+      "permalink": "/blog/2018/05/22/new-website"
+    }
+  ]
+}

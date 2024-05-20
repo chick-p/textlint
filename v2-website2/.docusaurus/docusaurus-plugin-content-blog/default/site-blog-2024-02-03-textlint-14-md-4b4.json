@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/2024/02/03/textlint-14",
+  "source": "@site/blog/2024-02-03-textlint-14.md",
+  "title": "textlint v14.0.0",
+  "description": "We are pleased to announce the release of textlint v14.0.0.",
+  "date": "2024-02-03T00:00:00.000Z",
+  "formattedDate": "February 3, 2024",
+  "tags": [],
+  "readingTime": 3.65,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "azu",
+      "url": "http://github.com/azu"
+    }
+  ],
+  "frontMatter": {
+    "title": "textlint v14.0.0",
+    "author": "azu",
+    "authorURL": "http://github.com/azu"
+  },
+  "nextItem": {
+    "title": "textlint v13.0.0",
+    "permalink": "/blog/2023/01/27/textlint-13"
+  }
+}

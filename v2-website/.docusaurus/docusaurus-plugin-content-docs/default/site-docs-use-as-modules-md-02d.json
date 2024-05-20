@@ -1,0 +1,30 @@
+{
+  "unversionedId": "use-as-modules",
+  "id": "use-as-modules",
+  "title": "Use as Node Modules",
+  "description": "Overview",
+  "source": "@site/../docs/use-as-modules.md",
+  "sourceDirName": ".",
+  "slug": "/use-as-modules",
+  "permalink": "/docs/use-as-modules",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/use-as-modules.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "use-as-modules",
+    "title": "Use as Node Modules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Formatter",
+    "permalink": "/docs/formatter"
+  },
+  "next": {
+    "title": "TxtAST Interface",
+    "permalink": "/docs/txtnode"
+  }
+}

@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 0 20px;
+}
+
+.mainContainer {
+    flex: 1 1 0%;
+    max-width: 100%;
+    padding: 40px 0;
+}
+
+.flex-grid {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+
+.flex-col {
+    flex: 1;
+    min-width: 400px;
+}

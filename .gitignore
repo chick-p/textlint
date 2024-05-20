@@ -95,6 +95,7 @@ test/**/yarn.lock
 
 # Docusaurus
 website/translated_docs
+website/.docusaurus
 website/build
 website/i18n/*
 !website/i18n/en.json

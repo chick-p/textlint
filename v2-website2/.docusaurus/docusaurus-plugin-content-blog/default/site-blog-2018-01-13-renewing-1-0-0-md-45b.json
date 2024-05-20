@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/2018/01/13/renewing-1.0.0",
+  "source": "@site/blog/2018-01-13-renewing-1.0.0.md",
+  "title": "Renewing",
+  "description": "We're renewing our website to be able to give you better experience.",
+  "date": "2018-01-13T00:00:00.000Z",
+  "formattedDate": "January 13, 2018",
+  "tags": [],
+  "readingTime": 0.06,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "107",
+      "url": "http://github.com/0x6b"
+    }
+  ],
+  "frontMatter": {
+    "title": "Renewing",
+    "author": "107",
+    "authorURL": "http://github.com/0x6b"
+  },
+  "prevItem": {
+    "title": "New website",
+    "permalink": "/blog/2018/05/22/new-website"
+  }
+}

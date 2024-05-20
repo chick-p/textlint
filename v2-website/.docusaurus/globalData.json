@@ -1,0 +1,120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "cli",
+              "path": "/docs/cli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "configuring",
+              "path": "/docs/configuring",
+              "sidebar": "docs"
+            },
+            {
+              "id": "contributing",
+              "path": "/docs/contributing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq/failed-to-load-textlints-module",
+              "path": "/docs/faq/failed-to-load-textlints-module"
+            },
+            {
+              "id": "faq/line-column-or-index",
+              "path": "/docs/faq/line-column-or-index"
+            },
+            {
+              "id": "filter-rule",
+              "path": "/docs/filter-rule",
+              "sidebar": "docs"
+            },
+            {
+              "id": "formatter",
+              "path": "/docs/formatter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ignore",
+              "path": "/docs/ignore",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/docs/"
+            },
+            {
+              "id": "integrations",
+              "path": "/docs/integrations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "plugin",
+              "path": "/docs/plugin",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rule",
+              "path": "/docs/rule",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rule-advanced",
+              "path": "/docs/rule-advanced",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rule-fixable",
+              "path": "/docs/rule-fixable",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rule-preset",
+              "path": "/docs/rule-preset",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rule-tips-after-all",
+              "path": "/docs/rule-tips-after-all",
+              "sidebar": "docs"
+            },
+            {
+              "id": "txtnode",
+              "path": "/docs/txtnode",
+              "sidebar": "docs"
+            },
+            {
+              "id": "use-as-modules",
+              "path": "/docs/use-as-modules",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/getting-started",
+                "label": "getting-started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

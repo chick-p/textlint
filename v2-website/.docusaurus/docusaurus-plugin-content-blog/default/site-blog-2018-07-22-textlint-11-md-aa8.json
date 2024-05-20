@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/2018/07/22/textlint-11",
+  "source": "@site/blog/2018-07-22-textlint-11.md",
+  "title": "textlint 11 released",
+  "description": "We just pushed textlint v11.0.0, which is a major release upgrade of textlint.",
+  "date": "2018-07-22T00:00:00.000Z",
+  "formattedDate": "July 22, 2018",
+  "tags": [],
+  "readingTime": 5.085,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "azu",
+      "url": "http://github.com/azu"
+    }
+  ],
+  "frontMatter": {
+    "title": "textlint 11 released",
+    "author": "azu",
+    "authorURL": "http://github.com/azu"
+  },
+  "prevItem": {
+    "title": "textlint v12.0.0",
+    "permalink": "/blog/2021/05/24/textlint-12"
+  },
+  "nextItem": {
+    "title": "New website",
+    "permalink": "/blog/2018/05/22/new-website"
+  }
+}

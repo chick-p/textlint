@@ -278,7 +278,7 @@ You can declare your dependency on textlint in `package.json` using the [peerDep
 ```
 
 <details>
-<summary>Deprecated: { line, column } and { index } properties</summary>
+<summary>Deprecated: line, column and index properties</summary>
 
 `{ line, column }` and `{ index }` properties are deprecated.
 Instead of these, textlint v12.2.0 introduce `padding` property and `locator` object.

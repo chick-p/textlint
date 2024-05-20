@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/2018/05/22/new-website",
+  "source": "@site/blog/2018-05-22-new-website.md",
+  "title": "New website",
+  "description": "textlint get a new website!",
+  "date": "2018-05-22T00:00:00.000Z",
+  "formattedDate": "May 22, 2018",
+  "tags": [],
+  "readingTime": 0.37,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "azu",
+      "url": "http://github.com/azu"
+    }
+  ],
+  "frontMatter": {
+    "title": "New website",
+    "author": "azu",
+    "authorURL": "http://github.com/azu"
+  },
+  "prevItem": {
+    "title": "textlint 11 released",
+    "permalink": "/blog/2018/07/22/textlint-11"
+  },
+  "nextItem": {
+    "title": "Renewing",
+    "permalink": "/blog/2018/01/13/renewing-1.0.0"
+  }
+}

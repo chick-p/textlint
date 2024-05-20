@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/2021/05/24/textlint-12",
+  "source": "@site/blog/2021-05-24-textlint-12.md",
+  "title": "textlint v12.0.0",
+  "description": "We just publish textlint v12.0.0, which is a major release upgrade of textlint.",
+  "date": "2021-05-24T00:00:00.000Z",
+  "formattedDate": "May 24, 2021",
+  "tags": [],
+  "readingTime": 3.65,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "azu",
+      "url": "http://github.com/azu"
+    }
+  ],
+  "frontMatter": {
+    "title": "textlint v12.0.0",
+    "author": "azu",
+    "authorURL": "http://github.com/azu"
+  },
+  "prevItem": {
+    "title": "textlint v13.0.0",
+    "permalink": "/blog/2023/01/27/textlint-13"
+  },
+  "nextItem": {
+    "title": "textlint 11 released",
+    "permalink": "/blog/2018/07/22/textlint-11"
+  }
+}

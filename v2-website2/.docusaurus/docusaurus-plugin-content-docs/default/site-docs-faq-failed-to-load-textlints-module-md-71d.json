@@ -1,0 +1,18 @@
+{
+  "unversionedId": "faq/failed-to-load-textlints-module",
+  "id": "faq/failed-to-load-textlints-module",
+  "title": "Failed to load textlint's module: \"${packageName}\" is not found.",
+  "description": "Target: User",
+  "source": "@site/../docs/faq/failed-to-load-textlints-module.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/failed-to-load-textlints-module",
+  "permalink": "/docs/faq/failed-to-load-textlints-module",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/faq/failed-to-load-textlints-module.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

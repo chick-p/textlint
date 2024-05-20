@@ -1,0 +1,30 @@
+{
+  "unversionedId": "configuring",
+  "id": "configuring",
+  "title": "Configuring textlint",
+  "description": "Configuration Files",
+  "source": "@site/../docs/configuring.md",
+  "sourceDirName": ".",
+  "slug": "/configuring",
+  "permalink": "/docs/configuring",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/configuring.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "configuring",
+    "title": "Configuring textlint"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Command Line Interface",
+    "permalink": "/docs/cli"
+  },
+  "next": {
+    "title": "Ignoring Text",
+    "permalink": "/docs/ignore"
+  }
+}

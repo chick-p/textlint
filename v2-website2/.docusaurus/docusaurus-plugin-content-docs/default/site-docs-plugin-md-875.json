@@ -1,0 +1,30 @@
+{
+  "unversionedId": "plugin",
+  "id": "plugin",
+  "title": "Plugin",
+  "description": "Each plugin is an npm module with a name in the format of textlint-plugin-.",
+  "source": "@site/../docs/plugin.md",
+  "sourceDirName": ".",
+  "slug": "/plugin",
+  "permalink": "/docs/plugin",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/plugin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "plugin",
+    "title": "Plugin"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to implement \"after-all\" in the rule?",
+    "permalink": "/docs/rule-tips-after-all"
+  },
+  "next": {
+    "title": "Formatter",
+    "permalink": "/docs/formatter"
+  }
+}

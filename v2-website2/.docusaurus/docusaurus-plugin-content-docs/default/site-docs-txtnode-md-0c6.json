@@ -1,0 +1,30 @@
+{
+  "unversionedId": "txtnode",
+  "id": "txtnode",
+  "title": "TxtAST Interface",
+  "description": "TxtAST define AST(Abstract Syntax Tree) for processing in textlint.",
+  "source": "@site/../docs/txtnode.md",
+  "sourceDirName": ".",
+  "slug": "/txtnode",
+  "permalink": "/docs/txtnode",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/txtnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "txtnode",
+    "title": "TxtAST Interface"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Use as Node Modules",
+    "permalink": "/docs/use-as-modules"
+  },
+  "next": {
+    "title": "Contributing Guideline",
+    "permalink": "/docs/contributing"
+  }
+}

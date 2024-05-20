@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rule-advanced",
+  "id": "rule-advanced",
+  "title": "Advanced: Paragraph Rule",
+  "description": "Readme",
+  "source": "@site/../docs/rule-advanced.md",
+  "sourceDirName": ".",
+  "slug": "/rule-advanced",
+  "permalink": "/docs/rule-advanced",
+  "draft": false,
+  "editUrl": "https://github.com/textlint/textlint/edit/master/docs/../docs/rule-advanced.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rule-advanced",
+    "title": "Advanced: Paragraph Rule"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Creating Preset",
+    "permalink": "/docs/rule-preset"
+  },
+  "next": {
+    "title": "How to implement \"after-all\" in the rule?",
+    "permalink": "/docs/rule-tips-after-all"
+  }
+}
